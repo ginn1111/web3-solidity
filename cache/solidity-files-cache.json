@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/gin/dev/solidity/hello-world/contracts/HelloWorld.sol": {
-      "lastModificationDate": 1716131943286,
+    "/home/gin/person/web3-solidity/contracts/HelloWorld.sol": {
+      "lastModificationDate": 1716196331749,
       "contentHash": "af1f659b8fd96a8f7a280fa84c6c9635",
       "sourceName": "contracts/HelloWorld.sol",
       "solcConfig": {
